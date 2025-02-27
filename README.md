@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Özgür</h1>
 <h3 align="center">I am a computer engineer from Turkey!</h3>
 
-- 🌱 I’m currently learning **.NET, MVC**
+- 🌱 I’m currently learning **Microservices, Spring Boot**
 
 - 💬 Ask me about **JAVA,PHP**
 
