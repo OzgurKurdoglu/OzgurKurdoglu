@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Microservices, Spring Boot**
 
-- 💬 Ask me about **JAVA,PHP**
+- 💬 Ask me about **JAVA**
 
 - 📫 How to reach me **kurdogluozgur23@gmail.com**
 
