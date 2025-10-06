@@ -1,9 +1,5 @@
-<h1 align="center">Hi 👋, I'm Özgür</h1>
+<h1 align="center">I'm Özgür</h1>
 <h3 align="center">I am a computer engineer from Turkey!</h3>
-
-- 🌱 I’m currently learning **Microservices, Spring Boot**
-
-- 💬 Ask me about **JAVA**
 
 - 📫 How to reach me **kurdogluozgur23@gmail.com**
 
