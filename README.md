@@ -1,4 +1,3 @@
-[![MasterHead](https://i.pinimg.com/originals/74/63/59/74635989b770a38189fff31a8ef152ea.gif)](https://github.com/OzgurKurdoglu)
 <h1 align="center">Hi 👋, I'm Özgür</h1>
 <h3 align="center">I am a computer engineer from Turkey!</h3>
 
